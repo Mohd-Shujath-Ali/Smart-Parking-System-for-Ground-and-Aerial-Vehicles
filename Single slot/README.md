@@ -104,17 +104,20 @@ python test.py
 ## 📊 Training Results
 
 <p align="center">
-  <img src="Single%20slot/model/result.png" width="650"/>
+  <img src="https://github.com/Mohd-Shujath-Ali/Smart-Parking-System-for-Ground-and-Aerial-Vehicles/blob/main/Single%20slot/model/result.png?raw=true" width="650"/>
 </p>
 <p align="center"><b>Figure:</b> Training metrics including loss, precision, recall, and mAP</p>
 
 <p align="center">
-  <img src="Single slot/model/confusion.png" width="650"/>
+  <img src="https://github.com/Mohd-Shujath-Ali/Smart-Parking-System-for-Ground-and-Aerial-Vehicles/blob/main/Single%20slot/model/confusion.png?raw=true" width="650"/>
 </p>
 <p align="center"><b>Figure:</b> Confusion matrix showing class-wise prediction accuracy</p>
-
 <p align="center">
-  <img src="Single slot/model/batch.jpg" width="650"/>
+  <img src="https://github.com/Mohd-Shujath-Ali/Smart-Parking-System-for-Ground-and-Aerial-Vehicles/blob/main/Single%20slot/model/live.png?raw=true" width="650"/>
+</p>
+<p align="center"><b>Figure:</b> Individual class detection</p>
+<p align="center">
+  <img src="https://github.com/Mohd-Shujath-Ali/Smart-Parking-System-for-Ground-and-Aerial-Vehicles/blob/main/Single%20slot/model/batch.jpg?raw=true" width="650"/>
 </p>
 <p align="center"><b>Figure:</b> Batch inference results demonstrating detection on sample images</p>
 
